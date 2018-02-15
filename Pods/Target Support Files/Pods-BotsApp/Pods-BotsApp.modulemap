@@ -1,0 +1,6 @@
+framework module Pods_BotsApp {
+  umbrella header "Pods-BotsApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
