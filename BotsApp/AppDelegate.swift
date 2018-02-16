@@ -24,7 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             window?.rootViewController?.present(authVC,animated: true,completion: nil)
         }
         */
-        // added a new comment
+        // added a new comment here
         return true
     }
 
